@@ -1,0 +1,214 @@
+.tewms-ws-content__wrap {
+    background: #fff;
+    padding: 25px;
+    border-radius: 15px;
+    margin: 10px 20px 0 0px;
+}
+.tewms-ws-content__wrap .wrap {
+    margin: 0;
+}
+.tewms-wrap1 {
+    padding-top: 30px;
+    margin-top: 0;
+}
+.w-section--head {
+    margin-bottom: 30px;
+}
+.w-section--head .tewms-heading {
+    font-size: 30px;
+    font-weight: 900;
+    margin: 0;
+    margin-bottom: 5px;
+    line-height: 1.3;
+}
+.w-section--head p {
+    margin: 0;
+    font-size: 16px;
+}
+.tewms-subheading {
+    color: #000;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0;
+    margin-bottom: 25px;
+}
+.w-input-form--group_wrap {
+    margin-top: 30px;
+}
+.w-input-form--group {
+    margin-bottom: 30px;
+}
+.w-input-form--group h4 {
+    font-size: 15px;
+    margin: 0;
+    margin-bottom: 15px;
+    color: #000000;
+}
+.w-form--label {
+    display: inline-block;
+    max-width: 25%;
+    width: 100%;
+    margin-bottom: 0;
+}
+.w-form--label span {
+    font-size: 14px;
+    cursor: pointer;
+}
+.w-custom-select input.select2-search__field {
+    width: 100% !important;
+    min-height: 30px;
+}
+.w-custom-select .select2-selection--multiple {
+    border-radius: 8px !important;
+    padding-inline: 5px;
+}
+.tewms-w-form-control {
+    width: 80%;
+    padding: 10px !important;
+    line-height: 1.37 !important;
+    min-height: 41px !important;
+    border-radius: 8px !important;
+}
+.ws-table-responsive {
+    width: 100%;
+    overflow-x: auto;
+}
+.ws-custom-data__table {
+    table-layout: fixed;
+    width: 100%;
+    border-color: #e6efee !important;
+    box-shadow: none !important;
+}
+.ws-custom-data__table th, 
+.ws-custom-data__table td {
+    vertical-align: middle;
+    font-size: 14px;
+    font-weight: 500;
+}
+.ws-custom-data__table th {
+    font-weight: 600;
+    background: #4ECDC4;
+}
+.ws-custom-data__table>tbody>:nth-child(odd) {
+    background-color: #d9f4f2;
+}
+.button-danger {
+    border-color: #d63638 !important;
+    background: #f2f2f2;
+}
+.text-center {
+    text-align: center !important;
+}
+.tewms-nav-tab-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+    font-size: 20px;
+}
+.tewms-nav-tab {
+    flex-grow: 1;
+    padding: 15px 0;
+    background-color: #ebebeb;
+    color: #333;
+    text-decoration: none;
+    text-align: center;
+}
+
+.tewms-nav-tab:not(:last-child) {
+    margin-right: 4px;
+}
+.tewms-nav-tab:hover,
+.tewms-nav-tab-active {
+    background-color: #19376D;
+    color: antiquewhite;
+}
+#tewms-toplevel_page_wholesale.wp-menu-image:before {
+    content: "cart";
+    transition: transform 2s linear;
+    transform: translateX(-100%);
+}
+#tewms-toplevel_page_wholesale.wp-menu-image:hover:before {
+    transform: translateX(60%);
+}
+#tewms-selected-terms {
+    display: flex;
+}
+.tewms-product-wise {
+    display: inline-block;
+    margin-right: 10px;
+}
+.tewms-product-box {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 5px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+}
+.tewms-delete-product {
+    color: #999;
+    cursor: pointer;
+}
+.tewms-highlight {
+    background-color: rgb(244, 244, 171);
+    font-weight: bold;
+}
+.tewms-message {
+    font-style: italic;
+    color: gray;
+}
+#tewms-clickedItems {
+    display: flex;
+}
+.tewms-select2-container--default.select2-container--focus .select2-selection--multiple {
+    border: 1px solid #333 !important;
+}
+.tewms-select2 .select2-container .select2-container--default .select2-container--focus {
+    border: 1px solid #333 !important;
+}
+.tewms-select2-container--default .select2-selection--multiple {
+    border: 1px solid #333 !important;
+}
+.tewms-select2-search__field {
+    background-color: white !important;
+}
+.tewms-select2-dropdown .select2-dropdown--below {
+    border: 1px solid #333 !important;
+}
+.tewms-select2-results {
+    height: 100px;
+}
+.tewms-select2-results__options {
+    height: 100px;
+}
+.tewms-contains {
+    width: 500px;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 5px;
+}
+.tewms-form-table{
+    width: 100%;
+    text-align: left;
+    font-size: 14px;
+}
+.tewms-form-table td{
+    padding: 10px;
+}
+@media screen and (max-width: 767px) {
+    .w-form--label {
+        max-width: 100%;
+        margin-bottom: 15px;
+    }
+    .tewms-w-form-control {
+        width: 100%;
+    }
+    .w-custom-select .select2-container {
+        width: 100% !important;
+    }
+    .tewms-ws-content__wrap {
+        margin-right: 12px;
+    }
+}

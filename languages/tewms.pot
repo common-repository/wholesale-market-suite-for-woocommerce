@@ -1,0 +1,244 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wholesale Market Suite for WooCommerce-1.0.0\n"
+"POT-Creation-Date: 2024-04-04 17:13+0530\n"
+"PO-Revision-Date: 2023-07-08 12:05+0530\n"
+"Last-Translator: \n"
+"Language-Team: Technisk Era\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr__;esc_attr_e;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-tewms-admin.php:118
+msgid "Select an option"
+msgstr ""
+
+#: admin/class-tewms-admin.php:119
+msgid "No results found"
+msgstr ""
+
+#: admin/class-tewms-admin.php:134
+msgid "Wholesaler"
+msgstr ""
+
+#: admin/class-tewms-admin.php:185 admin/class-tewms-admin.php:560
+msgid "Wholesale Settings"
+msgstr ""
+
+#: admin/class-tewms-admin.php:189
+msgid "dashicons-cart"
+msgstr ""
+
+#: admin/class-tewms-admin.php:248
+msgid "product-search-item"
+msgstr ""
+
+#: admin/class-tewms-admin.php:257
+msgid "No products found."
+msgstr ""
+
+#: admin/class-tewms-admin.php:288 admin/class-tewms-admin.php:341
+msgid "Buy more Save more!"
+msgstr ""
+
+#: admin/class-tewms-admin.php:293 admin/class-tewms-admin.php:346
+msgid "Product QTY"
+msgstr ""
+
+#: admin/class-tewms-admin.php:296 admin/class-tewms-admin.php:759
+msgid "Product Discount"
+msgstr ""
+
+#: admin/class-tewms-admin.php:349
+msgid "Category-wise Discount"
+msgstr ""
+
+#: admin/class-tewms-admin.php:371 admin/class-tewms-admin.php:379
+#: admin/class-tewms-admin.php:785 admin/class-tewms-admin.php:792
+#: admin/class-tewms-admin.php:799 admin/class-tewms-admin.php:806
+#: admin/class-tewms-admin.php:1154 admin/class-tewms-admin.php:1161
+#: admin/class-tewms-admin.php:1168 admin/class-tewms-admin.php:1175
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: admin/class-tewms-admin.php:405
+msgid "WholeSale Price"
+msgstr ""
+
+#: admin/class-tewms-admin.php:465
+msgid "Wholesale setting"
+msgstr ""
+
+#: admin/class-tewms-admin.php:500
+msgid "Wholesale Price"
+msgstr ""
+
+#: admin/class-tewms-admin.php:557
+msgid "Welcome to the Wholesale Market Suite for WooCommerce Plugin"
+msgstr ""
+
+#: admin/class-tewms-admin.php:565
+msgid "General"
+msgstr ""
+
+#: admin/class-tewms-admin.php:569
+msgid "Product"
+msgstr ""
+
+#: admin/class-tewms-admin.php:573
+msgid "Category"
+msgstr ""
+
+#: admin/class-tewms-admin.php:617
+msgid "Data saved successfully."
+msgstr ""
+
+#: admin/class-tewms-admin.php:627
+msgid "Manage discounts"
+msgstr ""
+
+#: admin/class-tewms-admin.php:631
+msgid "Enable Priority "
+msgstr ""
+
+#: admin/class-tewms-admin.php:633
+msgid "Product-wise Discount"
+msgstr ""
+
+#: admin/class-tewms-admin.php:637
+msgid "Enable Priority Categry discount"
+msgstr ""
+
+#: admin/class-tewms-admin.php:641
+msgid "Disable all the priority"
+msgstr ""
+
+#: admin/class-tewms-admin.php:646
+msgid "Manage Product Price"
+msgstr ""
+
+#: admin/class-tewms-admin.php:651
+msgid "Enable Discount on "
+msgstr ""
+
+#: admin/class-tewms-admin.php:653
+msgid "Regular Price"
+msgstr ""
+
+#: admin/class-tewms-admin.php:658
+msgid "Enable Discount on Sale Price"
+msgstr ""
+
+#: admin/class-tewms-admin.php:663
+msgid "Enable Discount on Wholesale Price"
+msgstr ""
+
+#: admin/class-tewms-admin.php:670 admin/class-tewms-admin.php:744
+#: admin/class-tewms-admin.php:993
+msgid "Save Changes"
+msgstr ""
+
+#: admin/class-tewms-admin.php:685
+msgid "Enable the product-wise discount"
+msgstr ""
+
+#: admin/class-tewms-admin.php:695
+msgid "Search your Product to get the details about the product"
+msgstr ""
+
+#: admin/class-tewms-admin.php:715 admin/class-tewms-admin.php:964
+msgid "Enter Minimun Products quantity"
+msgstr ""
+
+#: admin/class-tewms-admin.php:718 admin/class-tewms-admin.php:725
+#: admin/class-tewms-admin.php:967 admin/class-tewms-admin.php:974
+msgid "Enter Quantity"
+msgstr ""
+
+#: admin/class-tewms-admin.php:722 admin/class-tewms-admin.php:971
+msgid "Enter Maximum Products quantity"
+msgstr ""
+
+#: admin/class-tewms-admin.php:729
+msgid "Enter Products Discount"
+msgstr ""
+
+#: admin/class-tewms-admin.php:732 admin/class-tewms-admin.php:981
+msgid "Enter Discount %"
+msgstr ""
+
+#: admin/class-tewms-admin.php:736 admin/class-tewms-admin.php:739
+#: admin/class-tewms-admin.php:985 admin/class-tewms-admin.php:988
+msgid "Enter Message"
+msgstr ""
+
+#: admin/class-tewms-admin.php:755
+msgid "Product Name"
+msgstr ""
+
+#: admin/class-tewms-admin.php:757
+msgid "Product Quantity"
+msgstr ""
+
+#: admin/class-tewms-admin.php:761 admin/class-tewms-admin.php:1136
+msgid "Message"
+msgstr ""
+
+#: admin/class-tewms-admin.php:763 admin/class-tewms-admin.php:1139
+msgid "Action"
+msgstr ""
+
+#: admin/class-tewms-admin.php:813 admin/class-tewms-admin.php:1182
+msgid "Delete"
+msgstr ""
+
+#: admin/class-tewms-admin.php:931
+msgid "Enable the category-wise discount"
+msgstr ""
+
+#: admin/class-tewms-admin.php:938
+msgid "Search Your Category"
+msgstr ""
+
+#: admin/class-tewms-admin.php:978
+msgid "Enter Category-wise Discount"
+msgstr ""
+
+#: admin/class-tewms-admin.php:1121
+msgid "Saved Category-wise Discount Data"
+msgstr ""
+
+#: admin/class-tewms-admin.php:1127
+msgid "Category Name"
+msgstr ""
+
+#: admin/class-tewms-admin.php:1130
+msgid "Discount"
+msgstr ""
+
+#: admin/class-tewms-admin.php:1133
+msgid "Quantity"
+msgstr ""
+
+#: public/class-tewms-public.php:180 public/class-tewms-public.php:306
+msgid "cart-discount"
+msgstr ""
+
+#: public/class-tewms-public.php:181 public/class-tewms-public.php:307
+msgid "Discount "
+msgstr ""
+
+#: wholesale-market-suite-for-woocommerce.php:88
+msgid ""
+"wholesale market suit for woocommerce  plugin requires the WooCommerce "
+"plugin. Please install and activate WooCommerce first, then activate this "
+"plugin."
+msgstr ""
